@@ -39,7 +39,7 @@
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "chai-fs": "chaijs/chai-fs",
-    "electron": "1.4.15",
+    "electron": "22.3.21",
     "electron-mocha": "^3.0.0",
     "eslint": "^3.14.1",
     "eslint-config-airbnb-base": "^11.0.1",
